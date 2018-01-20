@@ -1,0 +1,25 @@
+{
+  "name": "nodeshaloc",
+  "version": "1.0.0",
+  "description": "node shared location",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macius702/mtk-sha-loc.git"
+  },
+  "keywords": [
+    "shared"
+  ],
+  "author": "macius702",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macius702/mtk-sha-loc/issues"
+  },
+  "homepage": "https://github.com/macius702/mtk-sha-loc#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
